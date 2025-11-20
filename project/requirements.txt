@@ -1,7 +1,9 @@
 Flask
 gunicorn
-joblib
-numpy
+pandas
 scikit-learn
-tensorflow-cpu
+tensorflow==2.15.0
+joblib
 openai
+numpy
+Werkzeug
